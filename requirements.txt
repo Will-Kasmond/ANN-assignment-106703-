@@ -1,4 +1,5 @@
 numpy
 matplotlib
-tensorflow
+tensorflow-cpu
 joblib
+scikit-learn
